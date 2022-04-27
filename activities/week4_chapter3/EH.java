@@ -27,9 +27,9 @@ class InClassTest {
 
     @Before
     public void setUp() {
-        eh1 = new EH(3);
-        eh2 = new EH(5);
-        eh3 = new EH(3);
+        eh1 = new EH(4);
+        eh2 = new EH(6);
+        eh3 = new EH(6);
     }
 
     //Question 2 - The contract for equals() states that no exceptions may be thrown.
